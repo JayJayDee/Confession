@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jayjaydee/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/jayjaydee/confession/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-80b774c7bed1dff21626cff143ad32017e09b807.jar" />
+    </item>
+    <item
+        jar="/Users/jayjaydee/confession/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/jayjaydee/confession/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-055c993abe745a0ef504dd5782e964fd1fc6b36e.jar" />
+    </item>
+    <item
+        jar="/Users/jayjaydee/confession/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/jayjaydee/confession/app/build/intermediates/pre-dexed/debug/classes-389c47613d96f2cb948b8241bd9ee4c248711883.jar" />
+    </item>
+    <item
+        jar="/Users/jayjaydee/confession/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/jayjaydee/confession/app/build/intermediates/pre-dexed/debug/classes-8063de06bf9b6b49cf37df919b6cd3ca96f627b9.jar" />
+    </item>
+    <item
+        jar="/Users/jayjaydee/confession/app/build/intermediates/exploded-aar/com.github.rahatarmanahmed/circularprogressview/2.3.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5d7ea94136c556d0ce3e56cbe3ba89283c7d9392">
+        <dex dex="/Users/jayjaydee/confession/app/build/intermediates/pre-dexed/debug/classes-034aa4de01baa4791220f43363db2b21070635ea.jar" />
+    </item>
+    <item
+        jar="/Users/jayjaydee/confession/app/build/intermediates/exploded-aar/com.github.castorflex.verticalviewpager/library/19.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cac65d41873c63e90b9406c9dbccc05b15113c45">
+        <dex dex="/Users/jayjaydee/confession/app/build/intermediates/pre-dexed/debug/classes-4ae2d77a5ea3c7048d524d275e3b189e9815628e.jar" />
+    </item>
+
+</items>

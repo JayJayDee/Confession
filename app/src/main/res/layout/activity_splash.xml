@@ -1,0 +1,61 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sebasi="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0dp">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/confession_logo"/>
+
+    <LinearLayout
+        android:id="@+id/layoutSplashLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:gravity="center|center_vertical">
+        <com.jaydee.confession.custom.FontTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="Confession"
+            android:textColor="#FFFFFF"
+            android:textSize="50sp"
+            sebasi:typeFace="NotoSansMedium" />
+        <com.jaydee.confession.custom.FontTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:gravity="center"
+            android:text="anywhere.\nanytime.\ntalk.\nsecretly."
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/layoutBtnSignIn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/round_button">
+        <com.jaydee.confession.custom.FontTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="Touch to start"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"/>
+    </RelativeLayout>
+
+</RelativeLayout>

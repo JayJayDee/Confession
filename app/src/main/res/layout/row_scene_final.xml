@@ -1,0 +1,82 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:gravity="center">
+        <com.jaydee.confession.custom.FontTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="right"
+            android:textSize="48sp"
+            android:textColor="#FFFFFF"
+            android:text="@string/scene_final_text"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/layoutBtnFinalAccept"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/round_button">
+            <com.jaydee.confession.custom.FontTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:textSize="24sp"
+                android:textColor="#FFFFFF"
+                android:text="@string/scene_final_btn_accept" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutBtnFinalDeny"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/round_button">
+            <com.jaydee.confession.custom.FontTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:textSize="24sp"
+                android:textColor="#FFFFFF"
+                android:text="@string/scene_final_btn_deny" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutBtnFinalDelay"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/round_button">
+            <com.jaydee.confession.custom.FontTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:textSize="24sp"
+                android:textColor="#FFFFFF"
+                android:text="@string/scene_final_btn_delay" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

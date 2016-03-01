@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Confession</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="scene1_text">
+        이 앱은
+        디자인이
+        구려요.
+    </string>
+    <string name="scene1_text_sub">
+        완전 구림ㅋ
+    </string>
+
+    <string name="scene2_text">
+        왜?
+    </string>
+
+    <string name="scene3_text">
+        개발 : 개발자.
+        디자인 : 개발자.
+        기획 : 개발자.
+        개발기간 3일.
+    </string>
+    <string name="scene3_text_sub">
+        안 구리면 이상한거 아님?ㅋ
+    </string>
+
+
+    <string name="scene4_text">
+        아니 그럼..\n이거\n왜 만듬?ㅋ
+    </string>
+
+
+    <string name="scene5_text">
+        그러게..ㅋ
+    </string>
+
+
+    <string name="scene6_text">
+        지금부터는\n\'왜\'에 대한 이야기.
+    </string>
+
+    <string name="scene7_text">
+        시작.
+    </string>
+    <string name="scene7_text_sub">
+        Let the story begin.
+    </string>
+
+
+    <string name="scene8_text">
+        소개 멘트
+    </string>
+
+    <string name="scene9_text">
+        소개 멘트
+    </string>
+    <string name="scene9_text_sub">
+        소개 멘트
+    </string>
+
+    <string name="scene10_text">
+        소개 멘트
+    </string>
+
+    <string name="scene11_text">
+        소개 멘트
+    </string>
+    <string name="scene11_text_sub">
+        소개 멘트
+    </string>
+
+
+    <string name="scene12_text">
+        소개 멘트
+    </string>
+
+    <string name="scene13_text">
+        소개 멘트
+    </string>
+
+    <string name="scene14_text">
+        소개 멘트
+    </string>
+
+
+    <string name="scene15_text">
+        소개 멘트
+    </string>
+    <string name="scene15_text_sub">
+        소개 멘트
+    </string>
+
+    <string name="scene16_text">
+        그리고...
+    </string>
+    <string name="scene16_text_sub">
+        there are more things to say..
+    </string>
+
+    <string name="scene17_text">
+        고백 멘트
+    </string>
+
+    <string name="scene18_text">
+        고백 멘트
+    </string>
+
+    <string name="scene19_text">
+        고백 멘트
+    </string>
+
+    <string name="scene20_text">
+        고백 멘트
+    </string>
+    <string name="scene20_text_sub">
+        고백 멘트
+    </string>
+
+    <string name="scene21_text">
+        고백 멘트
+    </string>
+
+    <string name="scene22_text">
+        고백 멘트
+    </string>
+
+    <string name="scene23_text">
+        고백 멘트
+    </string>
+
+    <string name="scene23_2_text">
+        고백 멘트
+    </string>
+    <string name="scene23_2_text_sub">
+        고백 멘트
+    </string>
+
+
+    <string name="scene24_text">
+        이 쯤 되면,\n눈치 챘지?
+    </string>
+
+    <string name="scene25_text">
+        이 앱의 이름은..
+    </string>
+    <string name="scene25_text_sub">
+        \'Confession\'
+    </string>
+
+    <string name="scene26_text">
+        Confession\n\n\'고백\'
+    </string>
+
+    <string name="scene27_text">
+        무섭고 떨리지만..
+    </string>
+
+    <string name="scene28_text">
+        마음을,\n이야기 하고\n싶어요.
+    </string>
+
+    <string name="scene29_text">
+        좋아합니다.
+    </string>
+
+    <string name="scene30_text">
+        너무 많이,\n좋아합니다.
+    </string>
+
+    <string name="scene31_text">
+        ㅇㅇ씨.\n
+    </string>
+
+    <string name="scene32_text">
+        저는요...\n키가 크지도 않고,\n잘 생긴 것도 아니예요.
+    </string>
+
+    <string name="scene33_text">
+        하지만,\n
+        ㅇㅇ씨를\n
+        너무 많이,\n
+        좋아합니다.
+    </string>
+
+
+    <string name="scene_final_text">
+        저랑,\n연애 해보지\n않으실래요?
+    </string>
+    <string name="scene_final_btn_accept">
+        응
+    </string>
+    <string name="scene_final_btn_deny">
+        아니
+    </string>
+    <string name="scene_final_btn_delay">
+        기다려
+    </string>
+
+
+    <string name="result_success_text">
+        축하 메시지
+    </string>
+    <string name="result_delay_text">
+        기다려 할때의 메시지
+    </string>
+
+    <string name="title_activity_result">ResultActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
