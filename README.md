@@ -1,2 +1,6 @@
 # Confession
-propose app for make a girlfriend.
+propose android app to make a girlfriend.
+
+## Environments ##
+Android studio.
+that's all :-) 
